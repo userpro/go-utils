@@ -7,7 +7,7 @@
  * @Description: hash函数
  */
 
-package common
+package utils
 
 import (
 	"fmt"

@@ -1,13 +1,13 @@
 /*
  * @Author: dongzhzheng
  * @Date: 2020-08-27 12:06:06
- * @LastEditTime: 2020-09-22 15:08:03
+ * @LastEditTime: 2020-12-29 20:33:22
  * @LastEditors: dongzhzheng
- * @FilePath: /recommend_item_embedding/common/slice.go
+ * @FilePath: /go-utils/slice.go
  * @Description: slice相关函数
  */
 
-package common
+package utils
 
 import "reflect"
 

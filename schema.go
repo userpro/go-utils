@@ -1,13 +1,13 @@
 /*
  * @Author: dongzhzheng
  * @Date: 2020-09-04 11:57:11
- * @LastEditTime: 2020-09-22 15:07:21
+ * @LastEditTime: 2020-12-29 20:33:13
  * @LastEditors: dongzhzheng
- * @FilePath: /recommend_item_embedding/common/schema.go
+ * @FilePath: /go-utils/schema.go
  * @Description: 名字风格转换 驼峰蛇形互转
  */
 
-package common
+package utils
 
 import "strings"
 

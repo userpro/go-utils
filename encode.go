@@ -1,13 +1,13 @@
 /*
  * @Author: dongzhzheng
  * @Date: 2020-09-03 17:04:20
- * @LastEditTime: 2020-09-14 15:20:34
+ * @LastEditTime: 2020-12-29 20:33:00
  * @LastEditors: dongzhzheng
- * @FilePath: /recommend_item_embedding/common/encode.go
+ * @FilePath: /go-utils/encode.go
  * @Description:编码转换 gbk utf8
  */
 
-package common
+package utils
 
 import (
 	"bytes"
